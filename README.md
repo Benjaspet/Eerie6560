@@ -14,14 +14,10 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/spx4cc2fgpnlo0g4rb8qgmoyt)
 
-<details>
-  <summary>My GitHub Statistics</summary>
+## My GitHub Statistics
 
-  <img align="left" alt="Eerie's GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=EerieAlchemist&show_icons=true&hide_border=true" />
-
-</details>
-  <summary>Top Languages</summary>
-  <img align="left" alt="Eerie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EerieAlchemist&langs_count=5" />
+<img align="left" alt="Eerie's GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=EerieAlchemist&show_icons=true&hide_border=true" />
+<img align="left" alt="Eerie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EerieAlchemist&langs_count=5" />
 
 
 [website]: https://codeSTACKr.com
