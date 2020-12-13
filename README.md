@@ -1,6 +1,6 @@
 ## Hey there! I'm Eerie!
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=eerie.ml&style=for-the-badge&url=https%3A%2F%2Feerie.ml)](https://eerie.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Eerie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEerieAlchemist&screen_name=EerieAlchemist)
 
 ## I'm a student and developer!
@@ -24,13 +24,7 @@
 
 <img align="left" alt="Eerie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EerieAlchemist&langs_count=5" />
 
-[website]: https://codeSTACKr.com
+[website]: https:/eerie.ml
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/EerieAlchemist
+[youtube]: https://youtube.com/EerieAlchemist
