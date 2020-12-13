@@ -20,6 +20,8 @@
 
 <img align="left" alt="Eerie's GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=EerieAlchemist&show_icons=true&hide_border=true" />
 
+### Top Languages
+
 <img align="left" alt="Eerie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EerieAlchemist&langs_count=5" />
 
 [website]: https://codeSTACKr.com
