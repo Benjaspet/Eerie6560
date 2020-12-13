@@ -21,7 +21,7 @@
 
 </details>
   <summary>Top Languages</summary>
-  <img align="left" alt="Eerie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
+  <img align="left" alt="Eerie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EerieAlchemist&langs_count=5" />
 
 
 [website]: https://codeSTACKr.com
