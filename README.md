@@ -22,10 +22,6 @@
 - Alchemy is an advanced Discord bot with a variety of features. Invite it to your server to explore!
 - https://discord.com/api/oauth2/authorize?client_id=734594027717918814&permissions=1022487158&scope=bot
 
-### Currently listening to Spotify:
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/spx4cc2fgpnlo0g4rb8qgmoyt)
-
 ---
 
 ## My GitHub Statistics & Top Languages
