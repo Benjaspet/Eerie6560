@@ -8,7 +8,6 @@
 - I have experience in PHP, JavaScript, and Python.
 - I'm currently learning HTML.
 - My goal is to contribute to and publish more open-source repositories.
-- I love math, especially calculus.
 
 ## What branches of development do I work in?
 
