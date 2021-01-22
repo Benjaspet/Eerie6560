@@ -18,8 +18,8 @@
 
 ## Invite my Discord bot, Alchemy!
 
-- Alchemy is an advanced Discord bot with a variety of features. Invite it to your server to explore!
-- https://discord.com/api/oauth2/authorize?client_id=734594027717918814&permissions=1022487158&scope=bot
+- Alchemy is an advanced Discord bot with a variety of features.
+- You can invite the bot to your own server by [clicking here](https://discord.com/api/oauth2/authorize?client_id=734594027717918814&permissions=1022487158&scope=bot).
 
 ---
 
