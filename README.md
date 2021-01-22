@@ -23,7 +23,7 @@
 
 ---
 
-## My GitHub Statistics & Top Languages
+## My GitHub Statistics
 
 <img align="left" alt="Eerie's GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=EerieDev&show_icons=true&hide_border=true" />
 
