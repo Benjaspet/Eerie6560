@@ -1,7 +1,7 @@
 ## Hey there! I'm Eerie!
 
 [![Website](https://img.shields.io/website?label=https://eerie.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://eerie.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Eerie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEerieAlchemist&screen_name=EerieAlchemist)
+[![Twitter Follow](https://img.shields.io/twitter/follow/EerieDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEerieDev&screen_name=EerieAlchemist)
 
 ## I'm a student and developer!
 
