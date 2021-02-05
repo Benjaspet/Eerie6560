@@ -5,8 +5,8 @@
 
 ## I'm a student and developer!
 
-- I have experience in PHP, JavaScript, and Python.
-- I'm currently learning HTML.
+- I have experience in PHP, JavaScript, mySQL, and Python.
+- I'm currently learning HTML & TypeScript.
 - My goal is to contribute to and publish more open-source repositories.
 
 ## What branches of development do I work in?
@@ -15,10 +15,11 @@
 - Network development.
 - Advanced Discord bot development.
 - Basic web development.
+- Intermediate mySQL.
 
-## Invite my Discord bot, Alchemy!
+## Invite my Discord bot, Botonium!
 
-- Alchemy is an advanced Discord bot with a variety of features.
+- Botonium is an advanced Discord bot with various features including moderation, music, XP systems, server utilities, and logging.
 - You can invite the bot to your own server by [clicking here](https://discord.com/api/oauth2/authorize?client_id=734594027717918814&permissions=1022487158&scope=bot).
 
 ---
@@ -27,7 +28,7 @@
 
 <img align="left" alt="Eerie's GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=EerieDev&show_icons=true&hide_border=true" />
 
-[website]: https:/eerie.ml
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/EerieAlchemist
-[youtube]: https://youtube.com/EerieAlchemist
+[website]: https://eerie.ml
+[course]: https://eerie.ml
+[twitter]: https://twitter.com/EerieDev
+[youtube]: https://youtube.com/EerieDev
