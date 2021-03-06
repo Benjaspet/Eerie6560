@@ -6,7 +6,7 @@
 ## I'm a student and developer!
 
 - I have experience in PHP, JavaScript, mySQL, and Python.
-- I'm currently learning HTML & TypeScript.
+- I'm currently learning HTML & Java.
 - My goal is to contribute to and publish more open-source repositories.
 
 ## What branches of development do I work in?
