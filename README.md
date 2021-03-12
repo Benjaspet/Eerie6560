@@ -17,10 +17,10 @@
 - Basic web development.
 - mySQL & DB management.
 
-## Invite my Discord bot, Botonium!
+## My Discord bot, Botonium!
 
-- Botonium is an advanced Discord bot with various features including moderation, music, XP systems, server utilities, and logging.
-- You can invite the bot to your own server by [clicking here](https://discord.com/api/oauth2/authorize?client_id=734594027717918814&permissions=1022487158&scope=bot).
+- Botonium is an advanced Discord bot.
+- It is currently in development. An open source repository of the bot can be found [here](https://github.com/EerieDev/Botonium-Wiki).
 
 ---
 
