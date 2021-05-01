@@ -1,7 +1,4 @@
-## Hey there! I'm Eerie!
-
-[![Website](https://img.shields.io/website?label=https://eerie.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://eerie.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/EerieDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEerieDev&screen_name=EerieDev)
+I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to program. I mostly work on PHP, Java, and Javascript-related projects, but I'm also experienced with Linux and Ubuntu. I'm mostly known for being the previous owner & developer of the Helios Network and the founder of the Ponjo Development Team. I'm also known for my contributions to the SCP Foundation - securing, containing, and protecting anomalies. If you'd like to learn more about me, check out my [portfolio](https://eerie.ml). I'm currently doing commissions, so if you're interested in contacting me, find my information [here](https://ponjodevelopment.tk).
 
 ### Languages
 
@@ -20,19 +17,4 @@
 - mySQL & SqLite
 - MongoDB
 - Ubuntu 18.04+ & CentOS 
-
-### Projects & Teams
-
-- Ponjo Development Team
-   - Botonium
-   - Elixir
-   - Atomizer
-- Helios Network Founder & Developer
-- Legend Network Developer
-- Vityaz SMP Developer
-
 ---
-
-## My GitHub Statistics
-
-<img align="left" alt="Eerie's GitHub Statistics" src="https://github-readme-stats.codestackr.vercel.app/api?username=EerieDev&show_icons=true&hide_border=true" />
