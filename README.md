@@ -13,18 +13,13 @@
 
 ### Tools & Libraries
 
-- Node.js
-- Vue.js
-- React.js
+- Node.js, Vue.js, React.js
 - Discord.js
 - PocketMine-MP
 - Spigot API
-
-- mySQL
-- SqLite
+- mySQL & SqLite
 - MongoDB
-- Ubuntu 18.04+
-- CentOS 
+- Ubuntu 18.04+ & CentOS 
 
 ### Projects & Teams
 
