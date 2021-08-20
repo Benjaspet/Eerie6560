@@ -21,4 +21,6 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
 - MongoDB
 - MySQL & SQLite
 - Ubuntu & CentOS
+
+Want to contact me? Join my [Discord server](https://ponjo.club/discord) or email me at eerie@ponjo.club.
 ---
