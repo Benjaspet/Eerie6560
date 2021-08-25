@@ -39,7 +39,7 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
   
 ### GitHub Statistics
   
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Eerie6560&show_icons=true)](https://eerie.codes)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Eerie6560&show_icons=true&hide=prs,issues)](https://eerie.codes)
 
 Want to contact me? Join my [Discord server](https://ponjo.club/discord) or email me at eerie@ponjo.club.
 
