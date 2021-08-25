@@ -8,13 +8,25 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
 - The Helios Network, a Minecraft: Bedrock Edition server network: https://ponjo.club/helios
 - Sound Pewp, the only Discord bot you'll ever need for your voice chats: https://ponjo.club/soundpewp
 
+---
+
 ### Languages
 
-- PHP
-- JavaScript
-- TypeScript
-- HTML & CSS
-- Java
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&hide=javascript&langs_count=6&layout=compact)<br>
+
+<details>
+<summary>Click here to view all languages I know.</summary>
+  <br> 
+  <ul>
+    <li>PHP</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>HTML & CSS</li>
+    <li>Java</li>
+    <li>Markdown (obviously!)</li>
+</details>  
+  
+---
 
 ### Experience
 
@@ -22,6 +34,12 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
 - MongoDB
 - MySQL & SQLite
 - Ubuntu & CentOS
+  
+---
+  
+### GitHub Statistics
+  
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Eerie6560&show_icons=true)](https://eerie.codes)
 
 Want to contact me? Join my [Discord server](https://ponjo.club/discord) or email me at eerie@ponjo.club.
 
