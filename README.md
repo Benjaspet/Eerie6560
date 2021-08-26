@@ -10,12 +10,12 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
 
 ---
 
-### Languages
+### Languages & Experience
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&hide=javascript&langs_count=8&layout=compact)<br>
 
 <details>
-<summary>Click here to view all languages I know.</summary>
+<summary>View my top languages.</summary>
   <br> 
   <ul>
     <li>PHP</li>
@@ -26,21 +26,28 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
     <li>Markdown (obviously!)</li>
 </details>  
   
----
-
-### Experience
-
-- Node & React
-- MongoDB
-- MySQL & SQLite
-- Ubuntu & CentOS
+<details>
+<summary>View the tools & resources I use.</summary>
+  <br> 
+  <ul>
+    <li>Node.js</li>
+    <li>MySQL & SqLite</li>
+    <li>Ubuntu</li>
+    <li>Intellij IDEA</li>
+</details>    
   
 ---
   
 ### GitHub Statistics
   
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Eerie6560&show_icons=true&hide=prs,issues)](https://eerie.codes)
-
-Want to contact me? Join my [Discord server](https://ponjo.club/discord) or email me at eerie@ponjo.club.
-
+  
 ---
+  
+<div align="center">
+  <a href="https://eerie.codes">Website</a> —
+  <a href="https://ponjo.club/discord">Eerie#6560</a> —
+  <a href="https://ponjo.club">Ponjo Team</a> —
+  <a href="mailto:eerie@ponjo.club">eerie@ponjo.club</a> —
+  <a href="https://twitter.com/Eerie6560">@Eerie6560</a>
+</div>
