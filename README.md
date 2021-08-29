@@ -12,7 +12,7 @@ I'm a high school student, gamer, writer, and diehard Nintendo fan who loves to 
 
 ### Languages & Experience
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&hide=javascript&langs_count=8&layout=compact)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=8&layout=compact)<br>
 
 <details>
 <summary>View my top languages.</summary>
