@@ -12,7 +12,7 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
 
 ### Languages & Experience
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=8&layout=compact)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=10&layout=compact)<br>
 
 <details>
 <summary>View my top languages.</summary>
