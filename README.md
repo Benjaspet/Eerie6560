@@ -18,22 +18,51 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
 <summary>View my top languages.</summary>
   <br> 
   <ul>
+    <li>Java</li>
+    <li>HTML</li>
     <li>PHP</li>
     <li>JavaScript</li>
+    <li>Python</li>
     <li>TypeScript</li>
-    <li>HTML & CSS</li>
-    <li>Java</li>
-    <li>Markdown (obviously!)</li>
+    <li>CSS</li>
+    <li>Markdown</li>
 </details>  
   
 <details>
 <summary>View the tools & resources I use.</summary>
   <br> 
   <ul>
+    <li>Bootstrap</li>
+    <li>PocketMine-MP</li>
     <li>Node.js</li>
-    <li>MySQL & SqLite</li>
+    <li>Vue.js</li>
+    <li>Discord.js</li>
+    <li>NPM</li>
+    <li>JDA</li>
+    <li>Docker</li>
+    <li>Git</li>
+    <li>Discord.py</li>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+    <li>SqLite & SqLite3</li>
+    <li>QuickMongo</li>
+    <li>PhpStorm</li>
+    <li>SSH</li>
+    <li>SFTP</li>
+    <li>WinSCP</li>
+    <li>Wordpress</li>
+    <li>GitHub</li>
+    <li>Commando</li>
+    <li>Spigot</li>
     <li>Ubuntu</li>
-    <li>Intellij IDEA</li>
+    <li>Cloudflare</li>
+    <li>Normalize.css</li>
+    <li>CentOS</li>
+    <li>Bukkit</li>
+    <li>Visual Studio Code</li>
+    <li>IntelliJ IDEA Ultimate</li>
+    <li>PyCharm</li>
+    <li>Webstorm</li>
 </details>    
   
 ---
@@ -46,8 +75,8 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
   
 <div align="center">
   <a href="https://eerie.codes">Website</a> —
-  <a href="https://ponjo.club/discord">Eerie#6560</a> —
+  <a href="https://discordapp.com/users/460177285954142208">Eerie#6560</a> —
   <a href="https://ponjo.club">Ponjo Team</a> —
-  <a href="mailto:eerie@ponjo.club">eerie@ponjo.club</a> —
+  <a href="mailto:benpetrilloe@ponjo.club">benpetrillo@ponjo.club</a> —
   <a href="https://twitter.com/Eerie6560">@Eerie6560</a>
 </div>
