@@ -6,8 +6,9 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
 - Elixir, an advanced, verified Discord bot: https://ponjo.club/elixir
 - The Pronoun API, the API for all your LGBTQ needs: https://pronoun.space
 - The Helios Network, a Minecraft: Bedrock Edition server network: https://ponjo.club/helios
+- The Ponjo API, a utility API for developers: https://ponjo.club/api
 - Sound Pewp, the only Discord bot you'll ever need for your voice chats: https://ponjo.club/soundpewp
-- The Crescent API, a utility API for developers: https://ponjo.club/crescent
+- Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club
 ---
 
 ### Languages & Experience
