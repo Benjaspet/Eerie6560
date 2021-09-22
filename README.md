@@ -29,42 +29,25 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
     <li>Markdown</li>
 </details>  
   
-<details>
-<summary>View the tools & resources I use.</summary>
-  <br> 
-  <ul>
-    <li>Bootstrap</li>
-    <li>PocketMine-MP</li>
-    <li>Node.js</li>
-    <li>Vue.js</li>
-    <li>Discord.js</li>
-    <li>NPM</li>
-    <li>JDA</li>
-    <li>Docker</li>
-    <li>Git</li>
-    <li>Discord.py</li>
-    <li>MySQL</li>
-    <li>MongoDB</li>
-    <li>SqLite & SqLite3</li>
-    <li>QuickMongo</li>
-    <li>PhpStorm</li>
-    <li>SSH</li>
-    <li>SFTP</li>
-    <li>WinSCP</li>
-    <li>Wordpress</li>
-    <li>GitHub</li>
-    <li>Commando</li>
-    <li>Spigot</li>
-    <li>Ubuntu</li>
-    <li>Cloudflare</li>
-    <li>Normalize.css</li>
-    <li>CentOS</li>
-    <li>Bukkit</li>
-    <li>Visual Studio Code</li>
-    <li>IntelliJ IDEA Ultimate</li>
-    <li>PyCharm</li>
-    <li>Webstorm</li>
-</details>    
+| Libraries | Tools | IDEs |
+| :----: | :----: | :----: |
+| Bootstrap | NPM | Intellij IDEA Ultimate |
+| PocketMine-MP | Docker | PyCharm |
+| Node.js | Apache | WebStorm |
+| Vue.js | NGINX | Visual Studio Code |
+| Discord.js | Express | - |
+| JDA | Git & GitHub | - |
+| Discord.py | MySQL | - |
+| Spigot | MongoDB | - |
+| Bukkit | SqLite & SqLite3 | - |
+| Commando | QuickMongo | - |
+| Normalize.css | PhpStorm | - |
+| Material.css | SSH | - |
+| - | SFTP | - |
+| - | WinSCP |   - |
+| - | Wordpress | - |
+| - | Ubuntu & CentOS | - |
+| - | Cloudflare | - |  
   
 ---
   
