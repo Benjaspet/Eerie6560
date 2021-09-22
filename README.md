@@ -6,14 +6,13 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
 - Elixir, an advanced, verified Discord bot: https://ponjo.club/elixir
 - The Pronoun API, the API for all your LGBTQ needs: https://pronoun.space
 - The Helios Network, a Minecraft: Bedrock Edition server network: https://ponjo.club/helios
-- The Ponjo API, a utility API for developers: https://ponjo.club/api
+- The Ponjo API, a utility API for developers: https://api.ponjo.club
+- Matte.css, a materialistic CSS library: https://ponjo.club/matte
 - Sound Pewp, the only Discord bot you'll ever need for your voice chats: https://ponjo.club/soundpewp
 - Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club
 ---
 
 ### Languages & Experience
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=10&layout=compact)<br>
 
 <details>
 <summary>View my top languages.</summary>
@@ -24,6 +23,7 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
     <li>PHP</li>
     <li>JavaScript</li>
     <li>Python</li>
+    <li>C#</li>
     <li>TypeScript</li>
     <li>CSS</li>
     <li>Markdown</li>
@@ -68,8 +68,10 @@ Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'
   
 ---
   
-### GitHub Statistics
+### Statistics
   
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=10&layout=compact)  
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Eerie6560&show_icons=true&hide=prs,issues)](https://eerie.codes)
   
 ---
