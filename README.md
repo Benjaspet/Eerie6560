@@ -1,61 +1,78 @@
-Hey there! I'm Ben Petrillo (also known as Eerie through my online alias) and I'm a high school student, gamer, and hobby developer. I mostly work on PHP, Java, TypeScript, and Javascript-related projects with experience working with Ubunutu. I'm an active contributor to the SCP Foundation - securing, containing, and protecting anomalies, and founder of the Ponjo Development Team. If you'd like to learn more about me, check out my [portfolio](https://eerie.codes) & [timeline](https://eerie.codes/timeline). To learn more about my projects & experience, click [here](https://ponjo.club).
+<p align="center">
+Hey there! I'm Ben Petrillo (Eerie6560) and I'm a high school student, gamer, and hobby developer. I work on frontend and backend projects. I'm an active contributor to the SCP Foundation — securing, containing, and protecting anomalies, and founder of the Ponjo Development Team. If you'd like to learn more about me, check out my <a href="https://eerie.codes">portfolio</a> & <a href="https://eerie.codes/timeline">timeline</a>. To learn more about my projects & experience, click <a href="https://ponjo.club">here</a>.
 
-### Some of My Projects
+<h3 align="center">Popular Projects</h3>
 
-- My website & portfolio: https://eerie.codes
-- Elixir, an advanced, verified Discord bot: https://ponjo.club/elixir
-- The Pronoun API, the API for all your LGBTQ needs: https://pronoun.space
-- The Helios Network, a Minecraft: Bedrock Edition server network: https://ponjo.club/helios
-- The Ponjo API, a utility API for developers: https://api.ponjo.club
-- Matte.css, a materialistic CSS library: https://ponjo.club/matte
-- Sound Pewp, the only Discord bot you'll ever need for your voice chats: https://ponjo.club/soundpewp
-- Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club
+<div align="center">
+  — My website & portfolio: https://eerie.codes — <br>
+  — Elixir, an advanced, verified Discord bot: https://ponjo.club/elixir — <br>
+  — Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club — <br>
+  — The Pronoun API, the API for all your LGBTQ needs: https://pronoun.space — <br>
+  — The Helios Network, a Minecraft: Bedrock Edition server network: https://ponjo.club/helios — <br>
+  — The Ponjo API, a utility API for developers: https://api.ponjo.club — <br>
+  — Matte.css, a materialistic CSS library: https://ponjo.club/matte — <br>
+  — Sound Pewp, the only Discord bot you'll ever need for your voice chats: https://ponjo.club/soundpewp —
+
 ---
 
-### Languages & Experience
-
-<details>
-<summary>View my top languages.</summary>
-  <br> 
-  <ul>
-    <li>Java</li>
-    <li>HTML</li>
-    <li>PHP</li>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>C#</li>
-    <li>TypeScript</li>
-    <li>CSS</li>
-    <li>Markdown</li>
-</details>  
+<h3 align="center">Languages</h3>
+    
+<div align="center">
+  <code>Java</code>
+  <code>HTML</code>
+  <code>TypeScript</code>
+  <code>Python</code>
+  <code>C#</code>
+  <code>JavaScript</code>
+  <code>PHP</code>
+  <code>CSS</code>
+  <code>Markdown</code>
   
-| Libraries | Tools | IDEs |
-| :----: | :----: | :----: |
-| Bootstrap | NPM | Intellij IDEA Ultimate |
-| PocketMine-MP | Docker | PyCharm |
-| Node.js | Apache | WebStorm |
-| Vue.js | NGINX | Visual Studio Code |
-| Discord.js | Express | - |
-| JDA | Git & GitHub | - |
-| Discord.py | MySQL | - |
-| Spigot | MongoDB | - |
-| Bukkit | SqLite & SqLite3 | - |
-| Commando | QuickMongo | - |
-| Normalize.css | PhpStorm | - |
-| Material.css | SSH | - |
-| - | SFTP | - |
-| - | WinSCP |   - |
-| - | Wordpress | - |
-| - | Ubuntu & CentOS | - |
-| - | Cloudflare | - |  
+<h3 align="center">Tools & Libraries</h3>  
+  
+<div align="center">
+  <code>Bootstrap</code>
+  <code>NPM</code>
+  <code>Intellij IDEA Ultimate</code>
+  <code>PocketMine-MP</code>
+  <code>Docker</code>
+  <code>PyCharm</code>
+  <code>Node.js</code>
+  <code>Apache</code>
+  <code>WebStorm</code>  
+  <code>Vue.js</code>
+  <code>NGINX</code>
+  <code>WebStorm</code>
+  <code>Visual Studio Code</code>
+  <code>Discord.js</code>
+  <code>JDA</code>
+  <code>Express</code>
+  <code>Git</code>
+  <code>GitHub</code>  
+  <code>Discord.py</code>
+  <code>MySQL</code>
+  <code>Spigot</code>
+  <code>MongoDB</code>
+  <code>Bukkit</code>
+  <code>SqLite & SqLite3</code>
+  <code>Commando</code>
+  <code>Normalize.css</code>
+  <code>QuickMongo</code>  
+  <code>PhpStorm</code>
+  <code>Material.css</code>
+  <code>SSH</code>
+  <code>SFTP</code>
+  <code>WinSCP</code>
+  <code>Wordpress</code>
+  <code>Ubuntu</code> 
+  <code>Cloudflare</code> 
+  <code>CentOS</code> 
   
 ---
   
-### Statistics
-  
+### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=10&layout=compact)  
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Eerie6560&show_icons=true&hide=prs,issues)](https://eerie.codes)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eerie6560&langs_count=10&layout=compact)
   
 ---
   
