@@ -74,6 +74,7 @@ Hey there! I'm Ben Petrillo (Eerie6560) and I'm a high school student, gamer, an
   
 <details>
   <summary>View my GitHub activity.</summary>
+  <br>
   <img align="center" src="https://metrics.lecoq.io/Eerie6560?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&lines=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York"/>
 </details>  
   
