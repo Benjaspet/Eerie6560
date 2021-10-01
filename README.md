@@ -6,10 +6,10 @@ Hey there! I'm Ben Petrillo (Eerie6560) and I'm a high school student, gamer, an
 <div align="center">
   — My website & portfolio: https://eerie.codes — <br>
   — Elixir, an advanced, verified Discord bot: https://ponjo.club/elixir — <br>
-  — Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club — <br>
+  — Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club/hosting — <br>
   — The Pronoun API, the API for all your LGBTQ needs: https://pronoun.space — <br>
   — The Helios Network, a Minecraft: Bedrock Edition server network: https://ponjo.club/helios — <br>
-  — The Ponjo API, a utility API for developers: https://api.ponjo.club — <br>
+  — The Ponjo API, a utility API for developers: https://app.ponjo.club — <br>
   — Matte.css, a materialistic CSS library: https://ponjo.club/matte — <br>
   — Sound Pewp, the only Discord bot you'll ever need for your voice chats: https://ponjo.club/soundpewp —
 
