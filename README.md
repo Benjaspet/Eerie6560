@@ -4,7 +4,7 @@ Hey there! I'm Ben Petrillo (Eerie6560) and I'm a high school student, gamer, an
 <h3 align="center">Popular Projects</h3>
 
 <div align="center">
-  — My website & portfolio: https://eerie.codes — <br>
+  — My website & portfolio: https://benpetrillo.dev — <br>
   — Elixir, an advanced, verified Discord bot: https://ponjo.club/elixir — <br>
   — Ponjo Image Hosting, a free image hosting service: https://app.ponjo.club/hosting — <br>
   — The Pronoun API, the API for all your LGBTQ needs: https://pronoun.space — <br>
@@ -77,9 +77,9 @@ Hey there! I'm Ben Petrillo (Eerie6560) and I'm a high school student, gamer, an
 ---
   
 <div align="center">
-  <a href="https://eerie.codes">Website</a> —
+  <a href="https://benpetrillo.dev">Website</a> —
   <a href="https://discordapp.com/users/460177285954142208">Eerie#6560</a> —
   <a href="https://ponjo.club">Ponjo Team</a> —
-  <a href="mailto:benpetrilloe@ponjo.club">benpetrillo@ponjo.club</a> —
+  <a href="mailto:benpetrillo@ponjo.club">benpetrillo@ponjo.club</a> —
   <a href="https://twitter.com/Eerie6560">@Eerie6560</a>
 </div>
