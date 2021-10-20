@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ben Petrillo, a student & hobby developer. I work on fullstack projects.
+  I'm Ben Petrillo, a student & hobby developer. I work on fullstack projects sometimes.
 </div>
 
 <br>
