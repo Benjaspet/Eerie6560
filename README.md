@@ -15,7 +15,7 @@
   <a href="https://ponjo.club/elixir">Elixir Music</a> •
   <a href="https://app.ponjo.club/hosting">Ponjo Hosting</a> •
   <a href="https://app.ponjo.club">Ponjo API</a> •
-  <a href="https://pronoun.space">Pronoun API</a> •
+  <a href="https://app.ponjo.club/lgbtq">Pronoun API</a> •
   <a href="https://ponjo.club/scp-062">SCP-062</a> •
   <a href="https://ponjo.club/roboeerie">RoboEerie</a>
 </div>
