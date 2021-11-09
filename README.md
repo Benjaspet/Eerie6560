@@ -27,3 +27,11 @@
   <a href="mailto:benpetrillo@ponjo.club">benpetrillo@ponjo.club</a> •
   <a href="https://twitter.com/Eerie6560">@Eerie6560</a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/643.gif">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/483.gif">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/644.gif">
+</div>
