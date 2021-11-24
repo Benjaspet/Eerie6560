@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://benpetrillo.dev">Website</a> •
   <a href="https://discordapp.com/users/460177285954142208">Eerie#6560</a> •
-  <a href="https://ponjo.club">Ponjo Team</a> •
+  <a href="https://ponjo.club">Ponjo Studios</a> •
   <a href="mailto:benpetrillo@ponjo.club">benpetrillo@ponjo.club</a> •
   <a href="https://twitter.com/Eerie6560">@Eerie6560</a>
 </div>
