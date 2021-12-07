@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ben Petrillo, a student & hobby developer. I work on cool projects sometimes.
+  I'm Ben Petrillo, a student with plans to pursue Mathematics & Computer Science in college.
 </div>
 
 <br>
