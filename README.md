@@ -1,5 +1,6 @@
 <div align="center">
   I'm Ben Petrillo, a student with plans to pursue Mathematics & Computer Science in college.
+  Northeastern University '26
 </div>
 
 <br>
