@@ -9,12 +9,6 @@
 <br>
 
 <div align="center">
-  <i>"Stars can't shine without darkness." — Unknown</i>
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://benpetrillo.dev">Portfolio</a> •
   <a href="https://ponjo.club/elixir">Elixir Music</a> •
   <a href="https://app.ponjo.club/hosting">Ponjo Hosting</a> •
