@@ -13,7 +13,7 @@
   <a href="https://docs.ponjo.club">Elixir Music</a> •
   <a href="https://app.ponjo.club/hosting">Ponjo Hosting</a> •
   <a href="https://app.ponjo.club">Ponjo API</a> •
-  <a href="https://github.com/Eerie6560/AdvancedCommandHandler">AdvancedCommandHandler</a>
+  <a href="https://github.com/Eerie6560/AdvancedCommandHandler">AdvancedCommandHandler</a> •
   <a href="https://ponjo.club/lgbtqfy">LGBTQfy</a> •
   <a href="https://github.com/Eerie6560/SCP-062-OS">SCP-062</a> •
   <a href="https://github.com/Eerie6560/RoboEerie">RoboEerie</a>
