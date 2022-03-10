@@ -1,21 +1,22 @@
 <div align="center">
-  I'm Ben Petrillo, a student with plans to pursue Mathematics & Computer Science in college.
+  I'm Ben Petrillo, a high school student and incoming freshman at Northeastern University.
 </div>
 
 <div align="center">
-  Northeastern University '26
+  I plan to major in Computer Science & Mathematics with a minor in Cybersecurity.
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://benpetrillo.dev">Portfolio</a> •
-  <a href="https://ponjo.club/elixir">Elixir Music</a> •
+  <a href="https://benpetrillo.dev/projects">Portfolio</a> •
+  <a href="https://docs.ponjo.club">Elixir Music</a> •
   <a href="https://app.ponjo.club/hosting">Ponjo Hosting</a> •
   <a href="https://app.ponjo.club">Ponjo API</a> •
-  <a href="https://app.ponjo.club/lgbtq">Pronoun API</a> •
-  <a href="https://ponjo.club/scp-062">SCP-062</a> •
-  <a href="https://ponjo.club/roboeerie">RoboEerie</a>
+  <a href="https://github.com/Eerie6560/AdvancedCommandHandler">AdvancedCommandHandler</a>
+  <a href="https://ponjo.club/lgbtqfy">LGBTQfy</a> •
+  <a href="https://github.com/Eerie6560/SCP-062-OS">SCP-062</a> •
+  <a href="https://github.com/Eerie6560/RoboEerie">RoboEerie</a>
 </div>
 
 <div align="center">
@@ -23,7 +24,8 @@
   <a href="https://discordapp.com/users/460177285954142208">Eerie#6560</a> •
   <a href="https://ponjo.club">Ponjo Studios</a> •
   <a href="mailto:benpetrillo@ponjo.club">benpetrillo@ponjo.club</a> •
-  <a href="https://twitter.com/Eerie6560">@Eerie6560</a>
+  <a href="https://twitter.com/Eerie6560">Twitter</a> •
+  <a href="https://www.linkedin.com/in/ben-petrillo-174a43202/">LinkedIn</a>
 </div>
 
 <br>
