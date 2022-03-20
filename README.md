@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  I plan to major in Computer Science & Mathematics with a minor in Cybersecurity.
+  I plan to receive my Bachelor of Science – BS in Computer Science.
 </div>
 
 <br>
@@ -14,7 +14,7 @@
   <a href="https://app.ponjo.club/hosting">Ponjo Hosting</a> •
   <a href="https://app.ponjo.club">Ponjo API</a> •
   <a href="https://pastes.ponjo.club">PonjoPastes</a> •
-  <a href="https://github.com/Eerie6560/AdvancedCommandHandler">AdvancedCommandHandler</a> •
+  <a href="https://github.com/Eerie6560/AdvancedCommandHandler">ACH</a> •
   <a href="https://ponjo.club/lgbtqfy">LGBTQfy</a> •
   <a href="https://github.com/Eerie6560/SCP-062-OS">SCP-062</a> •
   <a href="https://github.com/Eerie6560/RoboEerie">RoboEerie</a>
