@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ben Petrillo, a high school student and incoming freshman at Northeastern University.
+  I'm Ben Petrillo, a high school senior.
 </div>
 
 <div align="center">
