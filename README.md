@@ -1,5 +1,5 @@
 <div align="center">
-  I'm Ben Petrillo, a high school senior.
+  I'm Ben Petrillo, an incoming college freshman.
 </div>
 
 <div align="center">
